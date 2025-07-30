@@ -7,4 +7,3 @@ print(joke)
 This is Multi-line comment
 It can span multiple lines
 """
-a = 1
