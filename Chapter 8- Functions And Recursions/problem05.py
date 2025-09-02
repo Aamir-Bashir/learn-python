@@ -1,0 +1,8 @@
+# Inches to cm
+
+def inches_to_cm(inch):
+    return inch * 2.54
+
+n = int(input("Enter a value in inches: "))
+
+print(f"The corresponding value in cms is {inches_to_cm(n)}")
